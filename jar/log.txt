@@ -1,0 +1,133 @@
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+Ground cons
+OpenGL: 4.6.0 NVIDIA 399.24
+java.io.FileNotFoundException: src\com\lud\openglengine\res\images\tiles\grass_tiles.png (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:112)
+	at com.lud.openglengine.utils.FileUtils.loadAsImage(FileUtils.java:44)
+	at com.lud.openglengine.graphics.Texture.load(Texture.java:48)
+	at com.lud.openglengine.graphics.Texture.<init>(Texture.java:24)
+	at com.lud.openglengine.graphics.Tileset.<init>(Tileset.java:24)
+	at com.lud.openglengine.tests.Tilesets.loadAll(Tilesets.java:11)
+	at com.lud.openglengine.tests.level.Level.start(Level.java:88)
+	at com.lud.openglengine.gameobject.GameObject._init(GameObject.java:111)
+	at com.lud.openglengine.room.RoomManager.update(RoomManager.java:35)
+	at com.lud.openglengine.Engine.update(Engine.java:178)
+	at com.lud.openglengine.Engine.run(Engine.java:143)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "Test Game" java.lang.NullPointerException
+	at com.lud.openglengine.graphics.Texture.load(Texture.java:50)
+	at com.lud.openglengine.graphics.Texture.<init>(Texture.java:24)
+	at com.lud.openglengine.graphics.Tileset.<init>(Tileset.java:24)
+	at com.lud.openglengine.tests.Tilesets.loadAll(Tilesets.java:11)
+	at com.lud.openglengine.tests.level.Level.start(Level.java:88)
+	at com.lud.openglengine.gameobject.GameObject._init(GameObject.java:111)
+	at com.lud.openglengine.room.RoomManager.update(RoomManager.java:35)
+	at com.lud.openglengine.Engine.update(Engine.java:178)
+	at com.lud.openglengine.Engine.run(Engine.java:143)
+	at java.base/java.lang.Thread.run(Thread.java:834)

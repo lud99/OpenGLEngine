@@ -1,0 +1,128 @@
+OpenGL: 4.6.0 NVIDIA 399.24
+Width: 48, Heih: 32
+com.lud.openglengine.graphics.Tileset@6866a4a7
+Shader doesn't exist, creating one now (com.lud.openglengine.tests.level.Ground)
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader already exists, using that one instead
+Shader doesn't exist, creating one now (com.lud.openglengine.tests.Player)
+Shader doesn't exist, creating one now (com.lud.openglengine.tests.level.StarsBackground)
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
+JUMP!!
